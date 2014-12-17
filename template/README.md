@@ -14,7 +14,7 @@ After completing this assignment, you should understand:
 
 ### Performance Objectives
 
-After completing this assignment, you be able to:
+After completing this assignment, you should be able to:
 
 * Use ...
 

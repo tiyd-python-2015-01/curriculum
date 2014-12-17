@@ -1,0 +1,11 @@
+{
+  "name": "approximate-square-root",
+  "version": "0.0.1",
+  "title": "Approximate a square root",
+  "description": "Write a program that asks the user for a positive number and then outputs the approximated square root of the number. Use Newton's method to find the square root, with epsilon = 0.01.",
+  "keywords": [
+    "week-1",
+    "looping",
+    "math"
+  ]
+}

@@ -1,42 +1,34 @@
-# Title
+# $title
 
 ## Description
-Description goes here
+
+$description
 
 ## Objectives
 
 ### Learning Objectives
 
-After completing this assignment, you should…
+After completing this assignment, you should understand:
 
-* Understand ...
+* ...
 
 ### Performance Objectives
 
-After completing this assignment, you be able to effectively use
+After completing this assignment, you be able to:
 
 * Use ...
-
 
 ## Details
 
 ### Deliverables
 
 * A repo containing at least:
-  * `gulpfile.js`
-  * `package.json`
-  * `bower.json`
-  * `main.js`
-  * `index.html`
-  * `test/main.js`
-  * `test/index.html`
-  * `test/bower.json`
-  
+  * `README.rst`
+  * `requirements.txt`
+
 ### Requirements  
 
 * Passing unit tests
-* No JSHint warnings or errors
-
 
 ## Normal Mode
 

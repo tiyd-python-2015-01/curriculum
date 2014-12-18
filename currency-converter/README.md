@@ -62,8 +62,7 @@ Use test-driven development to design a function called `convert`. Below is a li
 * Create a new list of rates with two or more tuples. Make sure you can convert both ways with each rate. For example, with these rates:
 
   ```py
-  [("USD", "EUR", 0.74),
-   ("EUR", "JPY", 145.949)]
+  [("USD", "EUR", 0.74), ("EUR", "JPY", 145.949)]
   ```
 
   Make sure you can convert from USD to EUR, EUR to USD, EUR to JPY, and JPY to EUR.
@@ -76,8 +75,7 @@ In addition to the requirements from **Normal Mode**:
 * Test that you can convert between any two rates that you have the ability to, even if you do not have a direct conversion rate for them. For example, with the rates:
 
   ```py
-  [("USD", "EUR", 0.74),
-   ("EUR", "JPY", 145.949)]
+  [("USD", "EUR", 0.74), ("EUR", "JPY", 145.949)]
   ```
 
   Make sure you can convert from USD to JPY.

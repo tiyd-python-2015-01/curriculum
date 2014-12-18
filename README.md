@@ -7,11 +7,12 @@ These are the assignments for my January 2015 Python course at The Iron Yard.
 
 * Week 1
   * [Approximate square root](approximate-square-root)
-  * [Determine palindrome](determine-palindrome)
+  * [Determine palindrome](palindrome)
   * [Calculate word frequency](word-frequency)
   * [Lab: Mystery Word](mystery-word)
 
 * Week 2
+  * [Currency conversion](currency-converter)
 
 * Week 3
 

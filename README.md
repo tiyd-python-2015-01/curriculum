@@ -12,10 +12,17 @@ These are the assignments for my January 2015 Python course at The Iron Yard.
   * [Lab: Mystery Word](mystery-word)
 
 * Week 2
+
 * Week 3
+
 * Week 4
+
 * Week 5
+
 * Week 6
+
 * Week 7
+
 * Week 8
+
 * Week 9

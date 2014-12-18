@@ -46,7 +46,9 @@ Use test-driven development to design a function called `convert`. Below is a li
 
 * Create a function called `convert` that takes a dictionary called `rates`, a number called `value`, a string called `from`, and a string called `to`. The dictionary should contain a list of tuples, with each tuple containing a currency code you can convert from, a currency code you can convert to, and a rate.
 
-      [("USD", "EUR", 0.74)]
+  ```py
+  [("USD", "EUR", 0.74)]
+  ```
 
   This means that each dollar is worth 0.74 euros.
 
@@ -59,8 +61,10 @@ Use test-driven development to design a function called `convert`. Below is a li
 * Next, as a sanity check, make sure that if you try to convert 1 dollar into dollars, `1.0` is returned.
 * Create a new list of rates with two or more tuples. Make sure you can convert both ways with each rate. For example, with these rates:
 
-      [("USD", "EUR", 0.74),
-       ("EUR", "JPY", 145.949)]
+  ```py
+  [("USD", "EUR", 0.74),
+   ("EUR", "JPY", 145.949)]
+  ```
 
   Make sure you can convert from USD to EUR, EUR to USD, EUR to JPY, and JPY to EUR.
 * Make sure that if you try to make a conversion you do not know about, a `ValueError` is raised with an appropriate message.
@@ -71,8 +75,10 @@ In addition to the requirements from **Normal Mode**:
 
 * Test that you can convert between any two rates that you have the ability to, even if you do not have a direct conversion rate for them. For example, with the rates:
 
-      [("USD", "EUR", 0.74),
-       ("EUR", "JPY", 145.949)]
+  ```py
+  [("USD", "EUR", 0.74),
+   ("EUR", "JPY", 145.949)]
+  ```
 
   Make sure you can convert from USD to JPY.
 

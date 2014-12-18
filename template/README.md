@@ -16,32 +16,40 @@ After completing this assignment, you should understand:
 
 After completing this assignment, you should be able to:
 
-* Use ...
+* ...
 
 ## Details
 
 ### Deliverables
 
-* A repo containing at least:
-  * `README.rst`
-  * `requirements.txt`
+* A Git repo called $name containing at least:
+  * `README.rst` file explaining how to run your project
+  * a `requirements.txt` file
+  * a suite of tests for your project
 
 ### Requirements  
 
 * Passing unit tests
+* No PEP8 or Pyflakes warnings or errors
 
 ## Normal Mode
 
-Normal mode description
+...
 
 ## Hard Mode
 
-Hard mode description
+In addition to the requirements from **Normal Mode**:
+
+...
 
 ## Notes
 
-Notes go here...
+...
 
 ## Additional Resources
 
-* Read []()
+* ...
+
+## Credit
+
+...

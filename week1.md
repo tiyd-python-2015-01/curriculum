@@ -18,9 +18,7 @@
 * `pow()`
 * `help()`
 
-### In-class
-
-#### Setup sandbox
+### Setup sandbox
 
 * `mkdir -p ~/ironyard/sandbox`
 * `cd ~/ironyard/sandbox`
@@ -29,17 +27,17 @@
 * `pip install "ipython[all]"`
 * `ipython notebook`
 
-#### Learn about IPython Notebook
+### Learn about IPython Notebook
 
 * Make sure to show keyboard shortcuts
 
-#### Exercise
+### Exercise
 
 Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is the total wholesale cost for 60 copies?
 
 ### Assignment
 
-Write a program that asks the user for a positive number and then outputs the approximated square root of the number.
+[Approximate a square root](assignments/approximate-square-root).
 
 ## Day 2
 
@@ -58,15 +56,13 @@ Write a program that asks the user for a positive number and then outputs the ap
 * Tuples
 * Lists
 
-### In-class
-
-#### Exercise
+### Exercise
 
 Use Euclid's algorithm to calculate the greatest common divisor of two numbers.
 
 ### Assignment
 
-Write a program that asks the user for one or more sentences and then lets the user know if it is a palindrome. Output what your program is doing at each step. Your program should be made up of functions.
+[Determine if text is a palindrome](assignments/palindrome).
 
 ## Day 3
 
@@ -83,7 +79,7 @@ Write a program that asks the user for one or more sentences and then lets the u
 
 ### Assignment
 
-Write a program that looks for a file called `sample.txt`. This file will contain the text of a book, part of a book, or speech in plain text format. It reads this file and then returns the top 20 words used in the text and the number of times they are used.
+[Calculate word frequency](assignments/word-frequency).
 
 ## Day 4
 
@@ -99,3 +95,5 @@ Write a program that looks for a file called `sample.txt`. This file will contai
 Pig Latin
 
 ### Weekend Lab
+
+[Mystery Word](assignments/mystery-word)

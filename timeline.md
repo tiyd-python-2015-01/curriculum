@@ -85,6 +85,4 @@ References:
 
 ### Week 9
 
-This week is a week for review and catch-up. Things will fall through the cracks
-during the previous 8 weeks, and so we have this week as a flex week to make
-sure we cover everything you need.
+This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so we have this week as a flex week to make sure we cover everything you need.

@@ -77,11 +77,17 @@ Use Euclid's algorithm to calculate the greatest common divisor of two numbers.
 * Dictionaries
 * Files
 
+### Exercise
+
+Count the number of times each letter appears in a word and return it as a dictionary.
+
 ### Assignment
 
 [Calculate word frequency](assignments/word-frequency).
 
 ## Day 4
+
+*Question of the day:* How do you take a list of words and filter out all the words with more than 10 letters?
 
 ### Goals
 

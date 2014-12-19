@@ -1,6 +1,6 @@
 # Timeline
 
-### Week 1
+### [Week 1](week1.md)
 
 By the end of this week, students should be comfortable with:
 

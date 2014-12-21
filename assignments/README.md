@@ -13,6 +13,9 @@ These are the assignments for my January 2015 Python course at The Iron Yard.
 
 * Week 2
   * [Currency conversion](currency-converter)
+  * ???
+  * ???
+  * [Lab: Blackjack](blackjack)
 
 * Week 3
 

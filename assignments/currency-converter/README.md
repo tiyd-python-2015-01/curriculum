@@ -44,7 +44,9 @@ Use test-driven development to design a function called `convert`. Below is a li
 
 ### Steps:
 
-* Create a function called `convert` that takes a dictionary called `rates`, a number called `value`, a string called `from`, and a string called `to`. The dictionary should contain a list of tuples, with each tuple containing a currency code you can convert from, a currency code you can convert to, and a rate.
+* Create a function called `convert` that takes a dictionary called `rates`, a number called `value`, a string called `from`, and a string called `to`. Make sure than when you call `convert` with `from` and `to` being equal, the return value is the same as `value`.
+
+* The `rates` dictionary should contain a list of tuples, with each tuple containing a currency code you can convert from, a currency code you can convert to, and a rate.
 
   ```py
   [("USD", "EUR", 0.74)]
@@ -56,9 +58,8 @@ Use test-driven development to design a function called `convert`. Below is a li
 
   Given the above rates, make sure that converting 1 dollar into euros returns the following value: `0.74`.
 
+* Next, test that you can convert currency with a `value` that is not 1.
 * Next, test that converting 1 euro into dollars returns `1.35` (or an approximation).
-* Next, test that you can convert more than one unit of currency.
-* Next, as a sanity check, make sure that if you try to convert 1 dollar into dollars, `1.0` is returned.
 * Create a new list of rates with two or more tuples. Make sure you can convert both ways with each rate. For example, with these rates:
 
   ```py

@@ -23,7 +23,7 @@ After completing this assignment, you should be able to:
 ### Deliverables
 
 * A Git repo called $name containing at least:
-  * `README.rst` file explaining how to run your project
+  * `README.md` file explaining how to run your project
   * a `requirements.txt` file
   * a suite of tests for your project
 

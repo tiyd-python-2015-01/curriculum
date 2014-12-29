@@ -12,10 +12,10 @@ These are the assignments for my January 2015 Python course at The Iron Yard.
   * [Lab: Mystery Word](mystery-word)
 
 * Week 2
+  * [Calculate grades](calculate-grades)
   * [Currency conversion](currency-converter)
-  * ???
-  * ???
-  * [Lab: Blackjack](blackjack)
+  * [Blackjack, part 1](blackjack-1)
+  * [Lab: Blackjack](blackjack-2)
 
 * Week 3
 

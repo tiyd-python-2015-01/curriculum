@@ -1,0 +1,11 @@
+{
+  "name": "blackjack-1",
+  "version": "0.0.1",
+  "title": "Blackjack, Part I",
+  "description": "Plan your game of blackjack.",
+  "keywords": [
+    "classes",
+    "oop",
+    "games"
+  ]
+}

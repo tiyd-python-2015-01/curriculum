@@ -1,0 +1,11 @@
+{
+  "name": "calculate-grades",
+  "version": "0.0.1",
+  "title": "Grade calculations",
+  "description": "Make calculations using generators, list comprehensions, and loops.",
+  "keywords": [
+    "generators",
+    "lists",
+    "comprehensions"
+  ]
+}

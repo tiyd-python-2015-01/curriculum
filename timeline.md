@@ -18,7 +18,7 @@ References:
 
 * Chapters 1-5 in I2CPUP.
 
-### Week 2
+### [Week 2](week2.md)
 
 * Debugging
 * Tuples

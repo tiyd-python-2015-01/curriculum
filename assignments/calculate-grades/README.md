@@ -32,7 +32,6 @@ After completing this assignment, you should be able to:
 * Passing unit tests
 * No PEP8 or Pyflakes warnings or errors
 * No functions longer than 7 lines of code
-* 100% test coverage
 
 ## Normal Mode
 

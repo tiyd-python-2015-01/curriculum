@@ -18,6 +18,20 @@
 * `pow()`
 * `help()`
 
+### How to learn
+
+* Retrieval practice: quiz yourself
+* Spaced, interleaved practice: do not work on the same problem for 5 hours. Take a break, take a walk, practice something else.
+* Attempt to solve problems before being shown the solution: tackle things head-on, even if you don't know the answer
+* Reflection: review what you've learned periodically and ask yourself questions
+
+#### How this affects class
+
+* We will always start with a problem you don't yet know how to solve.
+* I may have simultaneous homework so you can alternate.
+* You _will_ be at the whiteboard, which is scary, but necessary.
+* Frequent quizzing.
+
 ### Setup sandbox
 
 * `mkdir -p ~/ironyard/sandbox`

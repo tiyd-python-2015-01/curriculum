@@ -33,28 +33,28 @@ References:
 
 * Chapters 6-10 in I2CPUP.
 
-### Week 3: Data
+### [Week 3](week3.md)
 
-* Loading and manipulating data with pandas
-* Plotting data
-* Common data formats
-* Publicly available data sets
-* Consuming REST APIs
-* Data set quality
-* Simple statistics
-* Basic statistical inquiry
-* NumPy
-
-### Week 4: Data
-
-* Relational databases
-* Database design
-* ORMs
-* NoSQL (MongoDB/NoSQL in Postgres)
 * Stochastic programming
 * Randomness
 * Creating simulations
 * Monte Carlo simulations
+* Plotting
+* NumPy
+* Simple statistics
+* Basic statistical inquiry
+
+### [Week 4](week4.md)
+
+* Loading and manipulating data with pandas
+* Common data formats
+* Publicly available data sets
+* Data set quality
+* Consuming REST APIs
+* Relational databases
+* Database design
+* ORMs
+* NoSQL (MongoDB/NoSQL in Postgres)
 
 ### Week 5: Data
 

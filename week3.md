@@ -1,5 +1,16 @@
 # Week 3
 
+## TODO
+
+* Stochastic programming
+* Randomness
+* Creating simulations
+* Monte Carlo simulations
+* Plotting
+* NumPy
+* Simple statistics
+* Basic statistical inquiry
+
 ## Day 1
 
 *Question of the day:*
@@ -42,3 +53,5 @@
 ### Exercise
 
 ### Assignment
+
+[Traffic simulation](assignments/traffic-simulation)

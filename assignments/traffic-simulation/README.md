@@ -89,7 +89,7 @@ In addition to the requirements from **Normal Mode**:
 The planning board has come back and given you a new requirement: this section
 of road should not have more than an average of 10 fatalities per year.
 
-We know that a driver has a base fatality risk of 1 / 1463040 per km driven.
+We [know that a driver has a base fatality risk of 1 / 1463040 per km driven](http://journalistsresource.org/studies/environment/transportation/comparing-fatality-risks-united-states-transportation-across-modes-time).
 This chance goes up by 3% for every 1 km/hr increase in speed. (To be clear,
 this is an exponential increase. For ease of explanation, imagine that
 the base risk is 1% at 1 km/hr. At 2 km/hr, the risk would be 1% * 1.03 =

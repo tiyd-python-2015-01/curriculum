@@ -24,7 +24,9 @@ After completing this assignment, you should be able to:
 
 ### Deliverables
 
-* A [gist](https://gist.github.com) containing one file called `word_frequency.py`.
+* A GitHub repo called approximate-square-root containing at least:
+  * This `README.md` file
+  * a file called `word_frequency.py`
 
 ### Requirements  
 

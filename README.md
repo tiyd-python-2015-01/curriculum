@@ -19,7 +19,7 @@ By the end of this week, students should be comfortable with:
 #### References:
 
 * [Notebooks](notebooks/week1)
-* Chapters 1-5 in I2CPUP.
+* Chapters 1-5 in [I2CPUP][].
 
 ### [Week 2](week2.md)
 
@@ -34,7 +34,7 @@ By the end of this week, students should be comfortable with:
 
 #### References:
 
-* Chapters 6-10 in I2CPUP.
+* Chapters 6-10 in [I2CPUP][].
 
 ### [Week 3](week3.md)
 
@@ -47,6 +47,10 @@ By the end of this week, students should be comfortable with:
 * Simple statistics
 * Basic statistical inquiry
 
+#### References:
+
+* Chapters 11-14 in [I2CPUP][].
+
 ### [Week 4](week4.md)
 
 * Loading and manipulating data with pandas
@@ -57,6 +61,10 @@ By the end of this week, students should be comfortable with:
 * Relational databases
 * Database design
 
+#### References
+
+* [Python for Data Analysis](http://shop.oreilly.com/product/0636920023784.do)
+
 ### Week 5: Data
 
 * Consuming REST APIs
@@ -64,6 +72,10 @@ By the end of this week, students should be comfortable with:
 * Classification algorithms
 * Clustering
 * Recommendation algorithms
+
+#### References
+
+* Chapter 19 in [I2CPUP][].
 
 ### Week 6: Web
 
@@ -88,3 +100,5 @@ By the end of this week, students should be comfortable with:
 ### Week 9
 
 This week is a week for review and catch-up. Things will fall through the cracks during the previous 8 weeks, and so we have this week as a flex week to make sure we cover everything you need.
+
+[I2CPUP]: https://mitpress.mit.edu/books/introduction-computation-and-programming-using-python-0

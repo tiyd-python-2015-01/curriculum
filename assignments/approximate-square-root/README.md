@@ -26,7 +26,9 @@ After completing this assignment, you should be able to:
 
 ### Deliverables
 
-* A [gist](https://gist.github.com) containing one file called `square_root.py`
+* A GitHub repo called approximate-square-root containing at least:
+  * This `README.md` file
+  * a file called `square_root.py`
 
 ### Requirements  
 
@@ -42,7 +44,7 @@ Enter a positive number: 20
 The square root of 20 is 4.472137791286727.
 ```
 
-The test script `test.sh` will be used to test your program. If you want to try this script, run `brew install roundup` first.
+Your program will be tested with the script `test.sh`. To run this script, run `brew install roundup` first.
 
 ## Normal Mode
 

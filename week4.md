@@ -44,3 +44,5 @@ Calculations on one month of consumer complaint data from the CFPB using the bui
 ### Exercise
 
 ### Assignment
+
+[American Time Use Analysis](assignments/atus-analysis)

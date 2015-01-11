@@ -1,0 +1,10 @@
+{
+  "name": "atus-analysis",
+  "version": "0.0.1",
+  "title": "American Time Use Analysis",
+  "description": "Use the U.S. Department of Labor's data on Americans' time use for research and analysis.",
+  "keywords": [
+    "data",
+    "government"
+  ]
+}

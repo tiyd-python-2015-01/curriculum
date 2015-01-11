@@ -50,14 +50,13 @@ References:
 * Common data formats
 * Publicly available data sets
 * Data set quality
-* Consuming REST APIs
+* Cleaning data sets
 * Relational databases
 * Database design
-* ORMs
-* NoSQL (MongoDB/NoSQL in Postgres)
 
 ### Week 5: Data
 
+* Consuming REST APIs
 * Neural networks
 * Classification algorithms
 * Clustering

@@ -1,21 +1,13 @@
 # Week 3
 
-## TODO
+## Day 1
+
+*Question of the day:* How would you find the odds of rolling 21 or higher on 6 dice using a computer?
+
+### Goals
 
 * Stochastic programming
 * Randomness
-* Creating simulations
-* Monte Carlo simulations
-* Plotting
-* NumPy
-* Simple statistics
-* Basic statistical inquiry
-
-## Day 1
-
-*Question of the day:*
-
-### Goals
 
 ### Exercise
 
@@ -28,6 +20,10 @@
 
 ### Goals
 
+* Creating simulations
+* Monte Carlo simulations
+
+
 ### Exercise
 
 ### Assignment
@@ -39,6 +35,11 @@
 
 ### Goals
 
+* Plotting
+* Simple statistics
+* Basic statistical inquiry
+
+
 ### Exercise
 
 ### Assignment
@@ -49,6 +50,8 @@
 *Question of the day:*
 
 ### Goals
+
+* NumPy
 
 ### Exercise
 

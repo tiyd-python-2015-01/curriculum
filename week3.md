@@ -11,6 +11,8 @@
 
 ### Exercise
 
+Compute the value of pi only using randomness.
+
 ### Assignment
 
 
@@ -20,9 +22,9 @@
 
 ### Goals
 
-* Creating simulations
-* Monte Carlo simulations
-
+* Plotting
+* Simple statistics
+* Basic statistical inquiry
 
 ### Exercise
 
@@ -35,14 +37,14 @@
 
 ### Goals
 
-* Plotting
-* Simple statistics
-* Basic statistical inquiry
-
+* Creating simulations
+* Monte Carlo simulations
 
 ### Exercise
 
 ### Assignment
+
+Roulette betting strategies.
 
 
 ## Day 4

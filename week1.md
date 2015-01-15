@@ -85,11 +85,13 @@ Use Euclid's algorithm to calculate the greatest common divisor of two numbers.
 ### Goals
 
 * `sorted()`
-* `open()`
+* `lambda`
 * `dict()`
 * More string methods
 * Dictionaries
+* List comprehensions
 * Files
+* `open()`
 
 ### Exercise
 

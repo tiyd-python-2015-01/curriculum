@@ -2,22 +2,20 @@
 
 ## Day 1
 
-*Question of the day:* How would you get the sum of all prime numbers between 1 and 100?
+*Question of the day:* Given some text, how would you find all the email addresses in it?
 
 ### Goals
 
-* List comprehensions
-* Generators
-* `lambda`
-* `map()`
-* `sorted()`
-* List slicing
+* List comprehensions, part 2
+* Regular expressions
 
 ### Exercise
 
-* Get the sum of all even numbers under 100.
 * Get a list of all powers of 2 under 1000.
 * Get a list of the squares of the first 10 numbers.
+* Given a list of strings, return a list of all that are valid variable names in Python.
+    * Must begin with a letter (a-z, A-Z) or underscore (\_).
+    * Other characters can be letters, numbers or \_.
 
 ### Assignment
 

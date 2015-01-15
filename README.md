@@ -53,6 +53,7 @@ By the end of this week, students should be comfortable with:
 
 ### [Week 4](week4.md)
 
+* Regular expressions
 * Loading and manipulating data with pandas
 * Common data formats
 * Publicly available data sets

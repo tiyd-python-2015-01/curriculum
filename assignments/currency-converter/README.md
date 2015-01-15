@@ -83,6 +83,8 @@ In addition to the requirements from **Normal Mode**:
 
   Make sure you can convert from USD to JPY.
 
+  This will probably require [Dijkstra's algorithm](http://rosettacode.org/wiki/Dijkstra%27s_algorithm).
+
 
 ## Additional Resources
 

@@ -69,6 +69,7 @@ By the end of this week, students should be comfortable with:
 ### Week 5: Data
 
 * Consuming REST APIs
+  * OAuth
 * Neural networks
 * Classification algorithms
 * Clustering

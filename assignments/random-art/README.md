@@ -29,11 +29,11 @@ After completing this assignment, you should be able to:
   * `README.md` file explaining how to run your project
   * a `requirements.txt` file
   * a `random_art` module
-  * a suite of tests for your project
+  * Your favorite piece of art you made, plus instructions
+    on how to replicate it.
 
 ### Requirements  
 
-* Passing unit tests
 * No PEP8 or Pyflakes warnings or errors
 
 ## Normal Mode
@@ -98,7 +98,7 @@ being able to generate the same image more than once.
 * `-n NUM` or `--number NUM` sets how many images to create. `NUM` is 1 by
 default.
 
-* `--bw` or `--color` sets whether the image is in black & white or color.
+* `--gray` or `--color` sets whether the image is in grayscale or color.
 Color is default.
 
 ## Additional Resources

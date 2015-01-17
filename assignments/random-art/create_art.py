@@ -47,7 +47,7 @@ def generate_rgb_image(red_exp, green_exp, blue_exp, width=300):
     return Image.merge("RGB", (red_image, green_image, blue_image))
 
 
-def make_gray(num_pics=20):
+def make_gray(num_pics=1):
     """Creates n grayscale image files named gray0.png, gray1.png, ..."""
     for i in range(num_pics):
         filename = "gray{}.png".format(i)
@@ -57,7 +57,7 @@ def make_gray(num_pics=20):
         image.save(filename, "PNG")
 
 
-def make_color(num_pics=20):
+def make_color(num_pics=1):
     """Creates n color image files named color0.png, color1.png, ..."""
     random.seed()
     for i in range(num_pics):
@@ -65,26 +65,29 @@ def make_color(num_pics=20):
         red_exp = create_expression()
         green_exp = create_expression()
         blue_exp = create_expression()
-        print("{}:\n  red: {}\n  green: {}\n  blue: {}".format(filename, red_exp, green_exp, blue_exp))
+        print("{}:\n  red: {}\n  green: {}\n  blue: {}".format(filename,
+                                                               red_exp,
+                                                               green_exp,
+                                                               blue_exp))
         image = generate_rgb_image(red_exp, green_exp, blue_exp)
         image.save(filename, "PNG")
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='Create random art.')
-    parser.add_argument('--seed', type=int, 
-        help="Set the seed value for the random number generator.")
-    parser.add_argument('-n', '--number', type=int, default=1, 
-        help="Generate N images.")
+    parser.add_argument('--seed', type=int,
+                        help="Set the seed for the random number generator.")
+    parser.add_argument('-n', '--number', type=int, default=1,
+                        help="Generate N images.")
     parser.add_argument('--color', action='store_true',
-        help="Generate color images (default).")
+                        help="Generate color images (default).")
     parser.add_argument('--gray', action='store_true',
-        help="Generate grayscale images.")
+                        help="Generate grayscale images.")
 
     args = parser.parse_args()
     if not (args.color or args.gray):
         args.color = True
-    
+
     if args.seed:
         seed = args.seed
     else:
@@ -98,4 +101,3 @@ if __name__ == '__main__':
 
     if args.gray:
         make_gray(args.number)
-

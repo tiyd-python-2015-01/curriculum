@@ -15,6 +15,7 @@ Compute the value of pi only using randomness.
 
 ### Assignment
 
+[Random art](random-art)
 
 ## Day 2
 
@@ -29,6 +30,10 @@ Compute the value of pi only using randomness.
 ### Exercise
 
 ### Assignment
+
+Plotting randomness in a notebook
+
+* Coin flips
 
 
 ## Day 3

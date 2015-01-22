@@ -1,4 +1,4 @@
-# Week 2 (short week, only 3 days)
+# Week 2 (short week)
 
 ## Day 1
 

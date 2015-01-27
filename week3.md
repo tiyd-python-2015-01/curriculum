@@ -19,7 +19,7 @@ If you generate random points in the square, you should be able to tell if the p
 
 ### Assignment
 
-[Random art](random-art)
+[Random art](assignments/random-art)
 
 ## Day 2
 
@@ -45,9 +45,7 @@ Plot a histogram of these weights. Find the mean and standard deviation of this 
 
 ### Assignment
 
-Plotting randomness in a notebook
-
-* Coin flips
+[Plotting randomness in a notebook](assignments/charting)
 
 
 ## Day 3
@@ -61,12 +59,16 @@ Plotting randomness in a notebook
 
 ### Exercise
 
-You run a department store. During lunch hours, you get your biggest volume of customers, an average of 100, with a standard deviation of 25. Each customer takes an average of 3 minutes in checkout, with a standard deviation of 1. If you want to make sure you can handle the average workload, how many cashiers do you need? If you want to be able to handle 1 standard deviation above the average work load, how many then?
+You run a department store. During lunch hours, you get your biggest volume of
+customers, an average of 100, with a standard deviation of 25. Each customer
+takes an average of 3 minutes in checkout, with a standard deviation of 1. If
+you want to make sure you can handle the average workload, how many cashiers do
+you need? If you want to be able to handle 1 standard deviation above the
+average work load, how many then?
 
 ### Assignment
 
-Roulette betting strategies.
-
+[Some Pig](assignments/some-pig)
 
 ## Day 4
 

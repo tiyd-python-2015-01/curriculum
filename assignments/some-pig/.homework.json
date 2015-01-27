@@ -1,0 +1,12 @@
+{
+  "name": "some-pig",
+  "version": "0.0.1",
+  "title": "Some Pig",
+  "description": "Use Monte Carlo simulations to find the ultimate player of Pig Solitaire.",
+  "keywords": [
+    "monte-carlo",
+    "randomness",
+    "simulation",
+    "week-3"
+  ]
+}

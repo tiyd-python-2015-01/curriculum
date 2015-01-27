@@ -1,0 +1,11 @@
+{
+  "name": "charting",
+  "version": "0.0.1",
+  "title": "Chart data",
+  "description": "Chart data, including coin flips.",
+  "keywords": [
+    "charting",
+    "randomness",
+    "week-3"
+  ]
+}

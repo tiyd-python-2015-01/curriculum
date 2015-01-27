@@ -61,6 +61,8 @@ Plotting randomness in a notebook
 
 ### Exercise
 
+You run a department store. During lunch hours, you get your biggest volume of customers, an average of 100, with a standard deviation of 25. Each customer takes an average of 3 minutes in checkout, with a standard deviation of 1. If you want to make sure you can handle the average workload, how many cashiers do you need? If you want to be able to handle 1 standard deviation above the average work load, how many then?
+
 ### Assignment
 
 Roulette betting strategies.

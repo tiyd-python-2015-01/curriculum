@@ -50,19 +50,31 @@ Plot a histogram of these weights. Find the mean and standard deviation of this 
 
 ## Day 3
 
-*Question of the day:*
+*Question of the day:* No question today.
 
 ### Goals
 
 * Creating simulations
 * Monte Carlo simulations
 
+### Plan
+
+Live code a simulation of Roombas.
+
+* Room to be vacuumed is 15x20 feet.
+* Each turn, the Roomba moves 1 foot (or until it hits a wall). Whatever space the Roomba is on is cleaned.
+* Assume the Roomba can remember only one thing: the number of degrees it last rotated.
+* Our default Roomba will move in a straight line until it hits a wall, then will rotate 90-270 degrees.
+
 ### Exercise
 
 You run a department store. During lunch hours, you get your biggest volume of
-customers, an average of 100, with a standard deviation of 25. Each customer
-takes an average of 3 minutes in checkout, with a standard deviation of 1. If
-you want to make sure you can handle the average workload, how many cashiers do
+customers, usually between 100 and 125.
+
+Most customers take 2 to 3 minutes (70% of customers), but 30% of customers
+are high-maintenance and take 7-10 minutes.
+
+If you want to make sure you can handle the average workload, how many cashiers do
 you need? If you want to be able to handle 1 standard deviation above the
 average work load, how many then?
 

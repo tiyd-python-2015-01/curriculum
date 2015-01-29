@@ -60,11 +60,11 @@ the real world.
 Given all this information, create a simulation of traffic on this road. Even
 though the road is not circular in real life, you should treat it as such: cars
 exiting the road start again at the beginning. This is to simulate a continuous
-stream of traffic. When you start the simulation, add cars to the road every 2-6
-seconds until the road is full. Then start collecting data after that point
-now that you have a continuous stream.
+stream of traffic. When you start the simulation, add 30 cars to the road per
+kilometer, evenly spaced. Then run the simulation for one minute to get a
+continuous, randomized stream of traffic.
 
-The optimal speed limit is one standard deviation above the mean speed limit.
+The optimal speed limit is one standard deviation above the mean speed.
 For ease of drivers, this should be rounded down to an integer.
 
 Your final report should have a graph of traffic over time, showing traffic

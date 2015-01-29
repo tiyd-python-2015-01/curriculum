@@ -2,11 +2,20 @@
 
 import json
 import os
+import argparse
 from collections import OrderedDict
 from string import Template
 
-name = input("URL-safe name: ")
-title = input("Title: ")
+parser = argparse.ArgumentParser(description='Create new Python assignments.')
+parser.add_argument('name', metavar="NAME", type=str,
+                    help="URL-safe name for the assignment.")
+parser.add_argument('-t', '--title', type=str,
+                    help="The title of the assignment.")
+
+args = parser.parse_args()
+
+name = args.name
+title = args.title or input("Title: ")
 desc = input("Description: ")
 keywords = []
 

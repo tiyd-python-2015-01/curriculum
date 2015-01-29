@@ -23,6 +23,8 @@ Calculations on one month of consumer complaint data from the CFPB using the bui
 
 ### Assignment
 
+Data analysis with Pandas
+
 
 ## Day 3
 
@@ -33,6 +35,8 @@ Calculations on one month of consumer complaint data from the CFPB using the bui
 ### Exercise
 
 ### Assignment
+
+Cleaning dirty data
 
 
 ## Day 4

@@ -29,32 +29,21 @@ After completing this assignment, you should be able to:
 * A Git repo called traffic-simulation containing at least:
   * `README.md` file explaining how to run your project
   * a `requirements.txt` file
-  * a suite of tests for your project
+  * (optional) a suite of tests for your project
+  * either an IPython notebook or a Python package with your code
 
 ### Requirements  
 
-* Passing unit tests
 * No PEP8 or Pyflakes warnings or errors
 
-## Normal Mode
+## About the Assignment
 
-We have a new section of road being built and do not know what the speed limit
-should be. This section of road is 7 kilometers long.
+You are going to create a simulation of traffic on a road and find the optimal
+speed limit for the road. In the normal mode below, this is for 1 kilometer of
+road. We start by listing our assumptions. These will simplify the problem from
+the real world.
 
-* Kilometer 1: straight.
-* Kilometer 2: slight curve. 40% higher slowing chance.
-* Kilometer 3: straight.
-* Kilometer 4: curve. 100% higher slowing chance.
-* Kilometer 5: straight.
-* Kilometer 6: slight curve. 20% higher slowing chance.
-* Kilometer 7: straight.
-
-![Road](road.png)
-
-Your job will be to create a simulation and find the optimal speed limit. We
-will start by simplifying the problem.
-
-**Assumptions**
+### Assumptions
 
 * Drivers want to go up to 120 km/hr.
 * The average car is 5 meters long.
@@ -82,24 +71,31 @@ Your final report should have a graph of traffic over time, showing traffic
 jams, as well as your recommendation for the speed limit. Add any plots that
 back up your analysis.
 
+[Here is an excellent example of a graph showing traffic jams.](https://en.wikipedia.org/wiki/Nagel%E2%80%93Schreckenberg_model#mediaviewer/File:Nagel-schreck_rho%3D0.35_p%3D0.3.png)
+
+## Normal Mode
+
+We have a 1 kilometer section of road being built and do not know what the
+speed limit should be. Simulate 1 kilometer of road. As mentioned above, even
+though this road is not circular, treat it as such in order to generate a
+continuous flow of traffic.
+
 ## Hard Mode
 
-In addition to the requirements from **Normal Mode**:
+We have a new section of road being built and do not know what the speed limit
+should be. This section of road is 7 kilometers long.
 
-The planning board has come back and given you a new requirement: this section
-of road should not have more than an average of 10 fatalities per year.
+* Kilometer 1: straight.
+* Kilometer 2: slight curve. 40% higher slowing chance.
+* Kilometer 3: straight.
+* Kilometer 4: curve. 100% higher slowing chance.
+* Kilometer 5: straight.
+* Kilometer 6: slight curve. 20% higher slowing chance.
+* Kilometer 7: straight.
 
-We [know that a driver has a base fatality risk of 1 / 1463040 per km driven](http://journalistsresource.org/studies/environment/transportation/comparing-fatality-risks-united-states-transportation-across-modes-time).
-This chance goes up by 3% for every 1 km/hr increase in speed. (To be clear,
-this is an exponential increase. For ease of explanation, imagine that
-the base risk is 1% at 1 km/hr. At 2 km/hr, the risk would be 1% * 1.03 =
-1.03%. At 3 km/hr, the risk would be 1.03% * 1.03 = 1.0609%. At 4 km/hr,
-1.0609% * 1.03 = 1.092727%.)
+![Road](road.png)
 
-Come up with a new recommendation for the speed limit that will result in a
-mean of 10 fatalities per year.
-
-## Nightmare Mode
+## Nightmare Mode, option 1
 
 Calculate all of the above, but change your simulation to account for differing
 types of drivers.
@@ -118,7 +114,22 @@ Slowing chance   | 10%/s    | 5%/s       | 10%/s
 * s = second
 * h = hour
 
-Alternately, use PyGame or Pyglet to show a live animation of your simulation.
+## Nightmare Mode, option 2
+
+In addition to the requirements from **Normal Mode**:
+
+The planning board has come back and given you a new requirement: this section
+of road should not have more than an average of 10 fatalities per year.
+
+We [know that a driver has a base fatality risk of 1 / 1463040 per km driven](http://journalistsresource.org/studies/environment/transportation/comparing-fatality-risks-united-states-transportation-across-modes-time).
+This chance goes up by 3% for every 1 km/hr increase in speed. (To be clear,
+this is an exponential increase. For ease of explanation, imagine that
+the base risk is 1% at 1 km/hr. At 2 km/hr, the risk would be 1% * 1.03 =
+1.03%. At 3 km/hr, the risk would be 1.03% * 1.03 = 1.0609%. At 4 km/hr,
+1.0609% * 1.03 = 1.092727%.)
+
+Come up with a new recommendation for the speed limit that will result in a
+mean of 10 fatalities per year.
 
 ## Notes
 

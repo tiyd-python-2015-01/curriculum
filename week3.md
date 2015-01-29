@@ -68,15 +68,7 @@ Live code a simulation of Roombas.
 
 ### Exercise
 
-You run a department store. During lunch hours, you get your biggest volume of
-customers, usually between 100 and 125.
-
-Most customers take 2 to 3 minutes (70% of customers), but 30% of customers
-are high-maintenance and take 7-10 minutes.
-
-If you want to make sure you can handle the average workload, how many cashiers do
-you need? If you want to be able to handle 1 standard deviation above the
-average work load, how many then?
+No exercise today.
 
 ### Assignment
 
@@ -91,6 +83,17 @@ average work load, how many then?
 * NumPy
 
 ### Exercise
+
+You run a department store. During lunch hours, you get your biggest volume of
+customers, with an average of 100.
+
+Most customers take 2 to 3 minutes (70% of customers), but 30% of customers
+are high-maintenance and take 7-10 minutes. (Look at `numpy.fromfunction` for
+  an idea on how to handle this.)
+
+If you want to make sure you can handle the average workload, how many cashiers
+do you need? If you want to be able to handle 1 standard deviation above the
+average work load, how many then?
 
 ### Assignment
 

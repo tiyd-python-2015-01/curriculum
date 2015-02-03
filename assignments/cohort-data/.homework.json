@@ -1,0 +1,11 @@
+{
+  "name": "cohort-data",
+  "version": "0.0.1",
+  "title": "Analyze cohort data",
+  "description": "Analyze the difficulty metrics for the cohort Rails and Python courses.",
+  "keywords": [
+    "data",
+    "pandas",
+    "week-4"
+  ]
+}

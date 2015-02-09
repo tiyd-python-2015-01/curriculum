@@ -1,0 +1,9 @@
+{
+  "name": "titanic",
+  "version": "0.0.1",
+  "title": "Enter the Titanic Kaggle competition",
+  "description": "",
+  "keywords": [
+    "machine-learning"
+  ]
+}

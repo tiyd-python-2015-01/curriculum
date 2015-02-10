@@ -1,0 +1,10 @@
+{
+  "name": "spambase",
+  "version": "0.0.1",
+  "title": "Classifing spam",
+  "description": "Use the Spambase dataset to classify spam. This data is already parsed down from email to features.",
+  "keywords": [
+    "machine-learning",
+    "bayes"
+  ]
+}

@@ -1,14 +1,27 @@
 # Week 5
 
+## Weekly Goals
+
+* Classification
+* Clustering
+* Regression
+* Scikit learn
+* AI?
+
 ## Day 1
 
 *Question of the day:*
 
 ### Goals
 
+* More Pandas
+* Classification
+
 ### Exercise
 
 ### Assignment
+
+Finish Titanic assignment.
 
 
 ## Day 2
@@ -42,3 +55,4 @@
 ### Exercise
 
 ### Assignment
+

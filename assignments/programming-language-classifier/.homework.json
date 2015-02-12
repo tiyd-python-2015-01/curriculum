@@ -1,0 +1,11 @@
+{
+  "name": "programming-language-classifier",
+  "version": "0.0.1",
+  "title": "Classify code snippets into programming languages",
+  "description": "Create a classifier that can take snippets of code and guess the programming language of the code.",
+  "keywords": [
+    "machine-learning",
+    "classification",
+    "bayes"
+  ]
+}

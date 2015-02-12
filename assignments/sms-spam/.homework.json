@@ -1,0 +1,11 @@
+{
+  "name": "sms-spam",
+  "version": "0.0.1",
+  "title": "Classify and Cluster SMS Messages",
+  "description": "Use Bayesian classification and K-means clustering to analyze SMS messages.",
+  "keywords": [
+    "machine-learning",
+    "clustering",
+    "classification"
+  ]
+}

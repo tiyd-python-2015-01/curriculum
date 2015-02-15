@@ -1,0 +1,10 @@
+{
+  "name": "web-calculator",
+  "version": "0.0.1",
+  "title": "Web calculator",
+  "description": "Create a simple web-based calculator using Flask.",
+  "keywords": [
+    "web",
+    "flask"
+  ]
+}

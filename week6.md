@@ -6,10 +6,15 @@
 
 ### Goals
 
+* Basics of Flask
+* HTML
+* Templates
+
 ### Exercise
 
 ### Assignment
 
+Web calculator
 
 ## Day 2
 
@@ -17,10 +22,16 @@
 
 ### Goals
 
+* Introduce databases
+* More complicated web applications
+* CSS
+* Generated pages
+
 ### Exercise
 
 ### Assignment
 
+ATUS viewer
 
 ## Day 3
 
@@ -28,10 +39,14 @@
 
 ### Goals
 
+* SQLAlchemy
+* WTForms
+
 ### Exercise
 
 ### Assignment
 
+Simple blog
 
 ## Day 4
 
@@ -42,3 +57,6 @@
 ### Exercise
 
 ### Assignment
+
+Bookmarking / URL shortener?
+Todo list?
